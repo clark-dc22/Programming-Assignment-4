@@ -6,10 +6,10 @@
 1. To identify the codes and functions needed in cleaning and visualizing data.
 2. To be able to apply and use the different codes and functions in creating a Python program for data wrangling and data visualization.
 
-## Instructions
-1. Download the ECE Board Exam 2 dataset from the provided link: [bit.ly/ECEBoardExamDataset](bit.ly/ECEBoardExamDataset).
-2. Write a Python script/code in Jupyter Notebook to solve the given problems.
-3. Submit the Jupyter notebook in the dedicated submission bin.
+## Files Included:
+- Mindy.csv
+- Instru.csv
+- DEL CARMEN_PA#4.ipynb
 
 ## Problem Statement
 Using data wrangling and data visualization techniques with storytelling, analyze the data and present different:
