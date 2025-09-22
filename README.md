@@ -1,1 +1,81 @@
 # Programming-Assignment-4
+
+# README: Experiment 4 - Data Wrangling and Data Visualization
+
+## Intended Learning Outcomes
+1. To identify the codes and functions needed in cleaning and visualizing data.
+2. To be able to apply and use the different codes and functions in creating a Python program for data wrangling and data visualization.
+
+## Instructions
+1. Download the ECE Board Exam 2 dataset from the provided link: [bit.ly/ECEBoardExamDataset](bit.ly/ECEBoardExamDataset).
+2. Write a Python script/code in Jupyter Notebook to solve the given problems.
+3. Submit the Jupyter notebook in the dedicated submission bin.
+
+## Problem Statement
+Using data wrangling and data visualization techniques with storytelling, analyze the data and present different:
+- (i) Data frames
+- (ii) Visuals
+
+### Task 1: Create Data Frames
+a. **Filename: Instru**  
+   - Columns: `["Name", "GEAS", "Electronics >70"]`  
+   - Conditions: Track is constant as **Instrumentation**, Hometown is constant as **Luzon**
+   - Code:
+<img width="994" height="61" alt="Screenshot 2025-09-22 at 12 31 22 PM" src="https://github.com/user-attachments/assets/5f53d9d2-629d-4134-976f-656902b2ff53" />
+
+   - Output:
+<img width="197" height="95" alt="Screenshot 2025-09-22 at 12 31 47 PM" src="https://github.com/user-attachments/assets/0e51b03a-0845-4e9f-97c1-aad349af1628" />
+
+
+
+b. **Filename: Mindy**  
+   - Columns: `["Name", "Track", "Electronics", "Average >=55"]`  
+   - Conditions: Hometown is constant as **Mindanao**, Gender is constant as **Female**
+   - Code:
+
+<img width="984" height="80" alt="Screenshot 2025-09-22 at 12 32 08 PM" src="https://github.com/user-attachments/assets/3a407852-930f-46b0-b8ae-4446227859fe" />
+   
+   - Output:
+
+<img width="308" height="153" alt="Screenshot 2025-09-22 at 12 32 49 PM" src="https://github.com/user-attachments/assets/e4e17487-20e9-4085-ac8c-a09c59e3ab5f" />
+
+
+
+
+
+### Task 2: Create a Visualization
+- Visualize how different features (chosen track in college, gender, hometown) contribute to the average grade.
+- Analyze whether chosen track, gender, or hometown contributes to a higher average score.
+- Codes:
+- By Track:
+
+<img width="615" height="155" alt="Screenshot 2025-09-22 at 12 34 00 PM" src="https://github.com/user-attachments/assets/398e0701-3b91-4553-a866-6e8053d203cf" />
+
+  - Output:
+
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/ada1cb4b-3bda-4bd0-9ef9-709aadfdd76a" />
+
+  - By Gender:
+
+<img width="507" height="106" alt="Screenshot 2025-09-22 at 12 37 03 PM" src="https://github.com/user-attachments/assets/a6f74800-776b-413e-b81e-0d090b1a8c84" />
+
+  - Output:
+
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/965d4214-82e5-4b69-99b3-26dd713f7b8c" />
+
+  - By Hometown:
+
+<img width="497" height="141" alt="Screenshot 2025-09-22 at 12 37 43 PM" src="https://github.com/user-attachments/assets/e04725ce-e18a-4f7d-92e0-12b662aad910" />
+
+  - Output:
+
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/ebd2af61-045a-4b35-8004-125fffaf95dd" />
+
+# Conclusion:
+- This experiment successfully applied data wrangling and visualization techniques to analyze ECE board exam data. We created filtered dataframes and visualizations to examine how track, gender, and hometown influence academic performance. The exercise demonstrated the power of Python's pandas and matplotlib libraries for transforming raw data into meaningful insights, highlighting the importance of data-driven analysis in identifying trends and patterns for informed decision-making.
+
+
+
+
+
+
