@@ -61,7 +61,8 @@ b. **Filename: Mindy**
 
   - Output:
 
-<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/965d4214-82e5-4b69-99b3-26dd713f7b8c" />
+<img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/a59cd68b-0c6d-47fa-a779-b8d4fcf02ea9" />
+
 
   - By Hometown:
 
