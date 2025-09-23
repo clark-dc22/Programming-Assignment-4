@@ -57,7 +57,8 @@ b. **Filename: Mindy**
 
   - By Gender:
 
-<img width="507" height="106" alt="Screenshot 2025-09-22 at 12 37 03 PM" src="https://github.com/user-attachments/assets/a6f74800-776b-413e-b81e-0d090b1a8c84" />
+<img width="518" height="127" alt="Screenshot 2025-09-23 at 2 39 50 PM" src="https://github.com/user-attachments/assets/765f68eb-0eee-484c-a7a0-cefbd7afe540" />
+
 
   - Output:
 
