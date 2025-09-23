@@ -16,6 +16,18 @@ Using data wrangling and data visualization techniques with storytelling, analyz
 - (i) Data frames
 - (ii) Visuals
 
+## Load ECE Board Exam
+- Code:
+
+<img width="308" height="44" alt="Screenshot 2025-09-23 at 3 33 14 PM" src="https://github.com/user-attachments/assets/3047f412-1ca6-49bf-8085-82057d982420" />
+
+- Output:
+
+<img width="572" height="510" alt="Screenshot 2025-09-23 at 3 33 54 PM" src="https://github.com/user-attachments/assets/22b336c5-aec3-4d1c-9233-036514783f5f" />
+<img width="573" height="283" alt="Screenshot 2025-09-23 at 3 34 10 PM" src="https://github.com/user-attachments/assets/218502af-2f5c-47a9-a142-4a3860209977" />
+
+
+
 ### Task 1: Create Data Frames
 a. **Filename: Instru**  
    - Columns: `["Name", "GEAS", "Electronics >70"]`  
