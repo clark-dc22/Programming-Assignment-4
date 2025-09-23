@@ -32,6 +32,7 @@ Using data wrangling and data visualization techniques with storytelling, analyz
 a. **Filename: Instru**  
    - Columns: `["Name", "GEAS", "Electronics >70"]`  
    - Conditions: Track is constant as **Instrumentation**, Hometown is constant as **Luzon**
+   - Code that will locate students from Luzon and their track is Instrumentation and has a score greater than 70 in Electronics.
    - Code:
 <img width="994" height="61" alt="Screenshot 2025-09-22 at 12 31 22 PM" src="https://github.com/user-attachments/assets/5f53d9d2-629d-4134-976f-656902b2ff53" />
 
@@ -43,6 +44,7 @@ a. **Filename: Instru**
 b. **Filename: Mindy**  
    - Columns: `["Name", "Track", "Electronics", "Average >=55"]`  
    - Conditions: Hometown is constant as **Mindanao**, Gender is constant as **Female**
+   - Code that will show students from Mindanao who are female. It also shows the students whose average is greater than or equal to 55.
    - Code:
 
 <img width="984" height="80" alt="Screenshot 2025-09-22 at 12 32 08 PM" src="https://github.com/user-attachments/assets/3a407852-930f-46b0-b8ae-4446227859fe" />
@@ -60,6 +62,7 @@ b. **Filename: Mindy**
 - Analyze whether chosen track, gender, or hometown contributes to a higher average score.
 - Codes:
 - By Track:
+- Code that will display a graph that shows the average for each Track.
 
 <img width="615" height="155" alt="Screenshot 2025-09-22 at 12 34 00 PM" src="https://github.com/user-attachments/assets/398e0701-3b91-4553-a866-6e8053d203cf" />
 
@@ -68,6 +71,7 @@ b. **Filename: Mindy**
 <img width="563" height="453" alt="image" src="https://github.com/user-attachments/assets/ada1cb4b-3bda-4bd0-9ef9-709aadfdd76a" />
 
   - By Gender:
+  - Code that will display a graph that shows the average for each Gender.
 
 <img width="518" height="127" alt="Screenshot 2025-09-23 at 2 39 50 PM" src="https://github.com/user-attachments/assets/765f68eb-0eee-484c-a7a0-cefbd7afe540" />
 
@@ -78,6 +82,7 @@ b. **Filename: Mindy**
 
 
   - By Hometown:
+  - Code that will display a graph that shows the average for each Hometown.
 
 <img width="497" height="141" alt="Screenshot 2025-09-22 at 12 37 43 PM" src="https://github.com/user-attachments/assets/e04725ce-e18a-4f7d-92e0-12b662aad910" />
 
